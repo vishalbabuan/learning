@@ -3,4 +3,3 @@ int main()
 {
     printf("hello world\n");
 }
-hello guys!!
